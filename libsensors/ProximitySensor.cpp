@@ -22,6 +22,8 @@
 #include <dirent.h>
 #include <sys/select.h>
 
+#include <linux/capella_cm3602.h>
+
 #include <cutils/log.h>
 
 #include "ProximitySensor.h"
